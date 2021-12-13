@@ -1,4 +1,25 @@
+body {
+  min-height: 4000px;
+}
+
 .jumbotron {
   padding-top: 3.5rem;
-  background-color: #62e0ff;
+  background-color: #ea95ff;
+}
+/* #62e0ff  blue 
+ #f5ff6a yellow
+#ea95ff purple
+#79ff67 green
+*/
+
+#about {
+  background-color: #f5ff6a;
+}
+
+#projects {
+  background-color: #5fe7ff;
+}
+
+h2 {
+  padding-top: 80px;
 }
