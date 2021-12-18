@@ -1,12 +1,9 @@
-body {
-  min-height: 4000px;
-}
-
 .jumbotron {
   padding-top: 3.5rem;
   background-color: #ea95ff;
 }
 /* #62e0ff  blue 
+#000b76 dark blue
  #f5ff6a yellow
 #ea95ff purple
 #79ff67 green
@@ -23,3 +20,43 @@ body {
 h2 {
   padding-top: 80px;
 }
+
+p {
+  padding-top: 50px;
+}
+
+#contact {
+  background-color: #79ff67;
+}
+
+/*  warna 1
+#6FD1D9
+#FFD1EC
+#B8F0F5
+#FBF1B3
+#C7BE85
+*/
+
+/* warna 2
+#F294D1
+#D0AEF2
+#94CEF2
+#2EF2F2
+#F2F2F2
+*/
+
+/* warna 3
+#F1C2F2
+#C9B6F2
+#D6C9F2
+#E3DCF2
+#CEE4F2
+ */
+
+/* warna 4
+#F2BDE4
+#F2A7ED
+#BA91F2
+#99D0F2
+#A2EAF2
+ */
