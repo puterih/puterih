@@ -1,0 +1,88 @@
+.jumbotron {
+  /* warna 1 */
+  /* background-color: #6fd1d9; */
+  /* warna 2 */
+  /* background-color: #f294d1; */
+  /* warna 3 */
+  /* background-color: #f1c2f2; */
+  /* warna 4 */
+  background-color: #ffffff;
+  margin-bottom: auto;
+}
+
+#about {
+  /* warna 1 */
+  /* background-color: #ffd1ec; */
+  /* warna 2 */
+  /* background-color: #d0aef2; */
+  /* warna 3 */
+  /* background-color: #c9b6f2; */
+  /* warna 4 */
+  background-color: #e1e5f2;
+}
+
+#projects {
+  /* warna 1 */
+  /* background-color: #b8f0f5; */
+  /* warna 2 */
+  /* background-color: #94cef2; */
+  /* warna 3 */
+  /* background-color: #d6c9f2; */
+  /* warna 4 */
+  background-color: #bfdbf7;
+}
+
+#contact {
+  /* warna 1 */
+  /* background-color: #fbf1b3; */
+  /* warna 2 */
+  /* background-color: #2ef2f2; */
+  /* warna 3 */
+  /* background-color: #e3dcf2; */
+  /* warna 4 */
+  background-color: #1f7a8c;
+}
+
+section {
+  padding-top: 8rem;
+}
+
+/* pilihan warna kombinasi */
+/*  warna 1
+  #6FD1D9
+  #FFD1EC
+  #B8F0F5
+  #FBF1B3
+  #C7BE85
+  */
+
+/* warna 2
+  #F294D1
+  #FFD1EC
+  #94CEF2
+  #2EF2F2
+  #F2F2F2
+  */
+
+/* warna 3
+  #F1C2F2
+  #C9B6F2
+  #D6C9F2
+  #E3DCF2
+  #CEE4F2
+   */
+
+/* warna 4
+  #ffffff
+  #e1e5f2
+  #bfdbf7
+  #1f7a8c
+  #022b3a
+   */
+
+/* warna 5 */
+/* cdb4db */
+/* ffc8dd */
+/* ffafcc */
+/* bde0fe */
+/* a2d2ff */
